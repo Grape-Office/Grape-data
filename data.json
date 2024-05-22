@@ -10,6 +10,16 @@
     "user_not_found": ""
   },
   {
+    "name": "imgur",
+    "url": "https://imgur.com/user/{}",
+    "user_not_found": ""
+  },
+  {
+    "name": "linktree",
+    "url": "https://linktr.ee/{}",
+    "user_not_found": ""
+  },
+  {
     "name": "MLBPARK",
     "url": "https://mlbpark.donga.com/mp/b.php?m=user&user={}",
     "user_not_found": ""
@@ -22,6 +32,36 @@
   {
     "name": "velog",
     "url": "velog.io/@{}/posts",
+    "user_not_found": ""
+  },
+  {
+    "name": "slides",
+    "url": "https://slides.com/{}",
+    "user_not_found": ""
+  },
+  {
+    "name": "soundcloud",
+    "url": "https://soundcloud.com/{}",
+    "user_not_found": ""
+  },
+  {
+    "name": "snapchat",
+    "url": "https://www.snapchat.com/add/{}",
+    "user_not_found": ""
+  },
+  {
+    "name": "spotify",
+    "url": "https://open.spotify.com/user/{}",
+    "user_not_found": ""
+  },
+  {
+    "name": "steam",
+    "url": "https://steamcommunity.com/id/{}/",
+    "user_not_found": ""
+  },
+  {
+    "name": "xbox",
+    "url": "https://xboxgamertag.com/search/{}",
     "user_not_found": ""
   },
   {
