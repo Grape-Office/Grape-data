@@ -65,6 +65,11 @@
     "user_not_found": ""
   },
   {
+    "name": "깃랩",
+    "url": "https://gitlab.com/{}",
+    "user_not_found": ""
+  },
+  {
     "name": "깃허브",
     "url": "https://github.com/{}",
     "user_not_found": ""
