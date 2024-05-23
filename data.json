@@ -132,7 +132,7 @@
   {
     "name": "리틀리",
     "url": "https://litt.ly/{}",
-    "user_not_found": "status code"
+    "user_not_found": "redirect"
   },
   {
     "name": "매니아",
@@ -232,7 +232,7 @@
   {
     "name": "요즘IT",
     "url": "https://yozm.wishket.com/magazine/@{}/",
-    "user_not_found": "status code"
+    "user_not_found": "redirect"
   },
   {
     "name": "우분투한국커뮤니티",
