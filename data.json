@@ -257,7 +257,8 @@
   {
     "name": "인벤",
     "url": "https://www.inven.co.kr/member/inventory/view_inventory.php?nick={}",
-    "user_not_found": "html"
+    "user_not_found": "html",
+    "description" : "alert"
   },
   {
     "name": "인스타그램",
@@ -290,14 +291,10 @@
     "user_not_found": "회원정보가 존재하지 않습니다."
   },
   {
-    "name": "쿨앤조이",
-    "url": "https://coolenjoy.net/bbs/profile.php?mb_id={}",
-    "user_not_found": "html"
-  },
-  {
     "name": "쿨엔조이",
     "url": "https://coolenjoy.net/bbs/profile.php?mb_id={}",
-    "user_not_found": "회원정보가 존재하지 않습니다."
+    "user_not_found": "html",
+    "description" : "alert"
   },
   {
     "name": "클리앙",
@@ -332,7 +329,8 @@
   {
     "name": "풋셀",
     "url": "https://footsell.com/g2//bbs/profile.php?mb_id={}",
-    "user_not_found": "html"
+    "user_not_found": "html",
+    "description" : "alert"
   },
   {
     "name": "힙합언더",
@@ -342,6 +340,7 @@
   {
     "name": "힙합플레이야",
     "url": "https://hiphopplaya.com/g2/bbs/profile.php?mb_id={}",
-    "user_not_found": "html"
+    "user_not_found": "html",
+    "description" : "alert"
   }
 ]
