@@ -368,7 +368,7 @@
   {
     "name": "인스타그램",
     "url": "https://www.instagram.com/{}",
-    "user_not_found": "",
+    "user_not_found": "죄송합니다. 페이지를 사용할 수 없습니다.",
     "category": "소셜 미디어"
   },
   {
