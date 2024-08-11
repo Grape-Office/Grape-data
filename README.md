@@ -6,7 +6,7 @@
   "name": "사이트 이름",
   "url": "유저 매핑 형식 URL",
   "user_not_found" : "유저를 찾을 수 없을때의 html 문구",
-  "category": "사이즈 카테고리"
+  "category": "사이트 카테고리"
 
 } ...
 ```
